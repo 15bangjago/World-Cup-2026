@@ -1,5 +1,5 @@
 # World-Cup-2026
-World Cup 2026
+World Cup 2026 CR7
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
