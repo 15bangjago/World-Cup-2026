@@ -28,6 +28,14 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", FUSSBALL UHD+
 http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",FUSSBALL UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", DAZN HDR 60FPS
 https://fhd60fps-by-opensourecflix.exmax.workers.dev/index.m3u8
 
