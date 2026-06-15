@@ -28,6 +28,9 @@ https://xtream.lazyspace.online/uplink/play/745149/lmND4qC9ustQ/live.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 eam.lazyspace.online/uplink/play/745195/lmND4qC9ustQ/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", SS World Cup Pass
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/745195/lmND4qC9ustQ/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",RTE SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
