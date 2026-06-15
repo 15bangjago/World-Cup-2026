@@ -1,4 +1,4 @@
-#EXTM3U
+ini#EXTM3U
 
 
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/BwfcauPzFvoU3BuOesNaRWg84Jw=/0x194:1079x914/1200x800/data/photo/2025/12/26/694e9970c86e9.jpg" group-title="MOVIE", ALAS ROBAN
