@@ -5,6 +5,26 @@ ini#EXTM3U
 https://ske.cfw69.workers.dev/afc7d47f/uz5gyMPGU9TVujalv1-l0kxMO6V9ZdBJ0xd0d1zu8sZkzDwUjs_xxTPuqduxDsZBotaUgjLg87OtlwPuLK9YFdI4q5qLz8RD6uBgm2sCEM9SZyblg6rmhHCn8zYYVoks4Hk5JVBSkeGa_4k93nKCLeZjCy3CWxdhYu4yEtjljYuXakWWr02FfQAFH2W0Gcj8cK9RaWemlDwoRgzssNAjMWui8tWrf-ndCnsB6lWpFVBsHKvdiaFw1z1NF2Eb_NQyvcqoWqcBWtiWrLGEm2CKc8Z_4JzcX--2TJHzzlOJx2VnO6QvF-pWHbzaYwL86VBS4wRECZKHSM9DtWsIpq9LpEXdRWpdHVsr3Ar5kZsv3LVg6lIABiemXvn7Jrw1tdyrXsKIbjCb19rlZP5k_O9N_USTKj_i5UoaPabaR-RYR8Dr5_O4olZp6m1xIvv5C80bSblgG0pbI9HnEfKoE7c1UYZ-qX2l1GqBSZdqnMxpCH2D4_lPeOVrEMvkBQBEynLjSDKHOA9GHj3_uus5pRhwdS2AHYeX46K2XI8OamOZje5pvfks_WP_iC3x8D0s7mSmuQDviXd1ODXB4eyr7XG6T9q_6DuY82NhfW3HT_Qu51mdbyrN0PIZIWJ_xNZxtqhuaUO2V_M6XDz9ZJV1DI0cj4njw6kUfn8IlyNImg6uhtCYtZG896P74irZqoqbLe5yfIEKrVDjY6mqQdwr9KvmMFAxHwHXuJDkjCuh3z89bt6gpdzzR-M8U7ahSamD7hH69cpeECWk0FSNP12adXhbI5T9_-cVRXwyWvEyqMubf9Y.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/1/1539-1690027797.webp" group-title="FIFA WC 2026",TNT SPORTS 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/5/5712-1690027954.webp" group-title="FIFA WC 2026",TNT SPORTS 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",RTE SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
