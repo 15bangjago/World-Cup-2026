@@ -5,33 +5,6 @@ ini#EXTM3U
 https://ske.cfw69.workers.dev/afc7d47f/uz5gyMPGU9TVujalv1-l0kxMO6V9ZdBJ0xd0d1zu8sZkzDwUjs_xxTPuqduxDsZBotaUgjLg87OtlwPuLK9YFdI4q5qLz8RD6uBgm2sCEM9SZyblg6rmhHCn8zYYVoks4Hk5JVBSkeGa_4k93nKCLeZjCy3CWxdhYu4yEtjljYuXakWWr02FfQAFH2W0Gcj8cK9RaWemlDwoRgzssNAjMWui8tWrf-ndCnsB6lWpFVBsHKvdiaFw1z1NF2Eb_NQyvcqoWqcBWtiWrLGEm2CKc8Z_4JzcX--2TJHzzlOJx2VnO6QvF-pWHbzaYwL86VBS4wRECZKHSM9DtWsIpq9LpEXdRWpdHVsr3Ar5kZsv3LVg6lIABiemXvn7Jrw1tdyrXsKIbjCb19rlZP5k_O9N_USTKj_i5UoaPabaR-RYR8Dr5_O4olZp6m1xIvv5C80bSblgG0pbI9HnEfKoE7c1UYZ-qX2l1GqBSZdqnMxpCH2D4_lPeOVrEMvkBQBEynLjSDKHOA9GHj3_uus5pRhwdS2AHYeX46K2XI8OamOZje5pvfks_WP_iC3x8D0s7mSmuQDviXd1ODXB4eyr7XG6T9q_6DuY82NhfW3HT_Qu51mdbyrN0PIZIWJ_xNZxtqhuaUO2V_M6XDz9ZJV1DI0cj4njw6kUfn8IlyNImg6uhtCYtZG896P74irZqoqbLe5yfIEKrVDjY6mqQdwr9KvmMFAxHwHXuJDkjCuh3z89bt6gpdzzR-M8U7ahSamD7hH69cpeECWk0FSNP12adXhbI5T9_-cVRXwyWvEyqMubf9Y.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", Fussball TV 1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", BEIN SPORTS MAX 1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/744517/lmND4qC9ustQ/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", BEIN SPORTS MAX 2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/744518/lmND4qC9ustQ/live.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", SS World Cup Central
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/745149/lmND4qC9ustQ/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", SS World Cup Pass
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-eam.lazyspace.online/uplink/play/745195/lmND4qC9ustQ/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", SS World Cup Pass
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/745195/lmND4qC9ustQ/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",RTE SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
