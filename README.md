@@ -1,4 +1,4 @@
-ini#EXTM3U
+#EXTM3U
 
 
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/BwfcauPzFvoU3BuOesNaRWg84Jw=/0x194:1079x914/1200x800/data/photo/2025/12/26/694e9970c86e9.jpg" group-title="MOVIE", ALAS ROBAN
@@ -253,9 +253,7 @@ http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2226.m3u8
 -http://m4.dns-speedy.com:80/Dieter/71AC65/101047
 
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="89" tvg-chno="143" tvg-name="himalayan-premium-hd" tvg-language="NEP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", AIRTEL Unite8
+#EXTINF:-1 tvg-id="89" tvg-chno="143" tvg-name="Airtel-Unite8" tvg-language="NEP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", AIRTEL Unite8
 https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781795359&token=afa6146b13cebe7dad7ba31268511ae720e243cf46e7f311946fb100748c3926&exp=1784560159&Powered-by-StreamFlex=3f47c21485a85c0c90deace0d73ce149d080a5913b699da0b8a1dc7fd119091b
 
 #EXTINF:-1 tvg-id="230" tvg-chno="611" tvg-name="dd-sports-1-0" tvg-language="HIN" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", DD Sports 1.0
