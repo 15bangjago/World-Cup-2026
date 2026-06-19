@@ -5,16 +5,16 @@
 https://ske.cfw69.workers.dev/afc7d47f/uz5gyMPGU9TVujalv1-l0kxMO6V9ZdBJ0xd0d1zu8sZkzDwUjs_xxTPuqduxDsZBotaUgjLg87OtlwPuLK9YFdI4q5qLz8RD6uBgm2sCEM9SZyblg6rmhHCn8zYYVoks4Hk5JVBSkeGa_4k93nKCLeZjCy3CWxdhYu4yEtjljYuXakWWr02FfQAFH2W0Gcj8cK9RaWemlDwoRgzssNAjMWui8tWrf-ndCnsB6lWpFVBsHKvdiaFw1z1NF2Eb_NQyvcqoWqcBWtiWrLGEm2CKc8Z_4JzcX--2TJHzzlOJx2VnO6QvF-pWHbzaYwL86VBS4wRECZKHSM9DtWsIpq9LpEXdRWpdHVsr3Ar5kZsv3LVg6lIABiemXvn7Jrw1tdyrXsKIbjCb19rlZP5k_O9N_USTKj_i5UoaPabaR-RYR8Dr5_O4olZp6m1xIvv5C80bSblgG0pbI9HnEfKoE7c1UYZ-qX2l1GqBSZdqnMxpCH2D4_lPeOVrEMvkBQBEynLjSDKHOA9GHj3_uus5pRhwdS2AHYeX46K2XI8OamOZje5pvfks_WP_iC3x8D0s7mSmuQDviXd1ODXB4eyr7XG6T9q_6DuY82NhfW3HT_Qu51mdbyrN0PIZIWJ_xNZxtqhuaUO2V_M6XDz9ZJV1DI0cj4njw6kUfn8IlyNImg6uhtCYtZG896P74irZqoqbLe5yfIEKrVDjY6mqQdwr9KvmMFAxHwHXuJDkjCuh3z89bt6gpdzzR-M8U7ahSamD7hH69cpeECWk0FSNP12adXhbI5T9_-cVRXwyWvEyqMubf9Y.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/54/1/tsn2-logo-png_seeklogo-548306.png" group-title="Canadian Channels",TSN 1 (Canada)
+#EXTINF:-1 tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png" group-title="Canadian Channels",TSN 1 (Canada)
 http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3146
 
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TSN 2 (Canada)
+#EXTINF:-1 tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-2.png" group-title="Canadian Channels",TSN 2 (Canada)
 http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3145
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/tsn-3-logo-png_seeklogo-314924.png" group-title="Canadian Channels",TSN 3 (Canada)
+#EXTINF:-1 tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-3.png" group-title="Canadian Channels",TSN 3 (Canada)
 http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3144
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/tsn-4-logo-png_seeklogo-314698.png" group-title="Canadian Channels",TSN 4 (Canada)
+#EXTINF:-1 tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-4.png" group-title="Canadian Channels",TSN 4 (Canada)
 http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3143
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlkX-DLLALhHR0ozdnT1QjuNXvhVk1JYu_KFONn5sunA&s=10" group-title="Canadian Channels",TSN 5 (Canada)
