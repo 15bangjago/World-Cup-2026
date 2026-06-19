@@ -4,7 +4,6 @@
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/BwfcauPzFvoU3BuOesNaRWg84Jw=/0x194:1079x914/1200x800/data/photo/2025/12/26/694e9970c86e9.jpg" group-title="MOVIE", ALAS ROBAN
 https://ske.cfw69.workers.dev/afc7d47f/uz5gyMPGU9TVujalv1-l0kxMO6V9ZdBJ0xd0d1zu8sZkzDwUjs_xxTPuqduxDsZBotaUgjLg87OtlwPuLK9YFdI4q5qLz8RD6uBgm2sCEM9SZyblg6rmhHCn8zYYVoks4Hk5JVBSkeGa_4k93nKCLeZjCy3CWxdhYu4yEtjljYuXakWWr02FfQAFH2W0Gcj8cK9RaWemlDwoRgzssNAjMWui8tWrf-ndCnsB6lWpFVBsHKvdiaFw1z1NF2Eb_NQyvcqoWqcBWtiWrLGEm2CKc8Z_4JzcX--2TJHzzlOJx2VnO6QvF-pWHbzaYwL86VBS4wRECZKHSM9DtWsIpq9LpEXdRWpdHVsr3Ar5kZsv3LVg6lIABiemXvn7Jrw1tdyrXsKIbjCb19rlZP5k_O9N_USTKj_i5UoaPabaR-RYR8Dr5_O4olZp6m1xIvv5C80bSblgG0pbI9HnEfKoE7c1UYZ-qX2l1GqBSZdqnMxpCH2D4_lPeOVrEMvkBQBEynLjSDKHOA9GHj3_uus5pRhwdS2AHYeX46K2XI8OamOZje5pvfks_WP_iC3x8D0s7mSmuQDviXd1ODXB4eyr7XG6T9q_6DuY82NhfW3HT_Qu51mdbyrN0PIZIWJ_xNZxtqhuaUO2V_M6XDz9ZJV1DI0cj4njw6kUfn8IlyNImg6uhtCYtZG896P74irZqoqbLe5yfIEKrVDjY6mqQdwr9KvmMFAxHwHXuJDkjCuh3z89bt6gpdzzR-M8U7ahSamD7hH69cpeECWk0FSNP12adXhbI5T9_-cVRXwyWvEyqMubf9Y.m3u8
 
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="UK Channels",ITV 1 (UK)
 http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/527497
 
@@ -27,15 +26,12 @@ http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2335
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports 4 (UK)
 http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/675021
 
-
-
 #EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/1/1539-1690027797.webp" group-title="FIFA WC 2026",TNT SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
-
 
 #EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://img-284.media.info/i/bg/1/1540-1690027877.webp" group-title="LIVE EVENT",TNT SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
@@ -44,10 +40,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/5/5712-1690027954.webp" group-title="FIFA WC 2026",TNT SPORTS 3
 #KODIPROP:inputstream=inputstream.adaptive
