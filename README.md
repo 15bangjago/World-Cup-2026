@@ -5,6 +5,30 @@
 https://ske.cfw69.workers.dev/afc7d47f/uz5gyMPGU9TVujalv1-l0kxMO6V9ZdBJ0xd0d1zu8sZkzDwUjs_xxTPuqduxDsZBotaUgjLg87OtlwPuLK9YFdI4q5qLz8RD6uBgm2sCEM9SZyblg6rmhHCn8zYYVoks4Hk5JVBSkeGa_4k93nKCLeZjCy3CWxdhYu4yEtjljYuXakWWr02FfQAFH2W0Gcj8cK9RaWemlDwoRgzssNAjMWui8tWrf-ndCnsB6lWpFVBsHKvdiaFw1z1NF2Eb_NQyvcqoWqcBWtiWrLGEm2CKc8Z_4JzcX--2TJHzzlOJx2VnO6QvF-pWHbzaYwL86VBS4wRECZKHSM9DtWsIpq9LpEXdRWpdHVsr3Ar5kZsv3LVg6lIABiemXvn7Jrw1tdyrXsKIbjCb19rlZP5k_O9N_USTKj_i5UoaPabaR-RYR8Dr5_O4olZp6m1xIvv5C80bSblgG0pbI9HnEfKoE7c1UYZ-qX2l1GqBSZdqnMxpCH2D4_lPeOVrEMvkBQBEynLjSDKHOA9GHj3_uus5pRhwdS2AHYeX46K2XI8OamOZje5pvfks_WP_iC3x8D0s7mSmuQDviXd1ODXB4eyr7XG6T9q_6DuY82NhfW3HT_Qu51mdbyrN0PIZIWJ_xNZxtqhuaUO2V_M6XDz9ZJV1DI0cj4njw6kUfn8IlyNImg6uhtCYtZG896P74irZqoqbLe5yfIEKrVDjY6mqQdwr9KvmMFAxHwHXuJDkjCuh3z89bt6gpdzzR-M8U7ahSamD7hH69cpeECWk0FSNP12adXhbI5T9_-cVRXwyWvEyqMubf9Y.m3u8
 
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="UK Channels",ITV 1 (UK)
+http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/527497
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="UK Channels",ITV 2 (UK)
+http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/527498
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="UK Channels",ITV 3 (UK)
+http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2263
+
+
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports 1 (UK)
+http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2337
+
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports 2 (UK)
+http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2336
+
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports 3 (UK)
+http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2335
+
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports 4 (UK)
+http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/675021
+
+
+
 #EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/1/1539-1690027797.webp" group-title="FIFA WC 2026",TNT SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -80,10 +104,6 @@ http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4a
 http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bOQ&e=1781182200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",TSN 1
-https://storage.googleapis.com/uornvhebgekwbfh2/mux_video_ts/index-1.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",SporTV 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -91,20 +111,6 @@ https://storage.googleapis.com/uornvhebgekwbfh2/mux_video_ts/index-1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",Caze TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",FOX SPORTS  US
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",NBC UNIVERSO
 #KODIPROP:inputstream=inputstream.adaptive
