@@ -279,3 +279,93 @@ https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=178179535
 #EXTVLCOPT:http-origin=https://dishhomego.com.np
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
 https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+# ==================== FIFA ====================
+#EXTINF:-1 group-title="FIFA" tvg-name="ZEE" tvg-logo="", ENGLISH
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+# ==================== TNT SPORTS ====================
+#EXTINF:-1 group-title="TNT SPORTS" tvg-name="TNT Sports 1" tvg-logo="", TNT Sports 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd?|drmScheme=clearkey&drmLicense=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
+
+#EXTINF:-1 group-title="TNT SPORTS" tvg-name="TNT Sports 2" tvg-logo="", TNT Sports 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+
+#EXTINF:-1 group-title="TNT SPORTS" tvg-name="TNT Sports 3" tvg-logo="", TNT Sports 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?|drmScheme=clearkey&drmLicense=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bx5787d2c610c41a7
+
+#EXTINF:-1 group-title="TNT SPORTS" tvg-name="TNT Sports 4" tvg-logo="", TNT Sports 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?|drmScheme=clearkey&drmLicense=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+
+# ==================== PREMIER SPORTS ====================
+#EXTINF:-1 group-title="PREMIER SPORTS" tvg-name="Premier Sports 1" tvg-logo="", Premier Sports 1
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+
+#EXTINF:-1 group-title="PREMIER SPORTS" tvg-name="Premier Sports 2" tvg-logo="", Premier Sports 2
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+
+# ==================== FUBO ====================
+#EXTINF:-1 group-title="FUBO" tvg-name="Fubo Sports 1" tvg-logo="", Fubo Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd?|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+
+#EXTINF:-1 group-title="FUBO" tvg-name="Fubo Sports 2" tvg-logo="", Fubo Sports 2
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd?|drmScheme=clearkey&drmLicense=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+
+# ==================== SPOTV ====================
+#EXTINF:-1 group-title="SPOTV" tvg-name="SPOTV 1" tvg-logo="", SPOTV 1
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd?|drmScheme=clearkey&drmLicense=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+
+#EXTINF:-1 group-title="SPOTV" tvg-name="SPOTV 2" tvg-logo="", SPOTV 2
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+
+# ==================== EURO SPORTS ====================
+#EXTINF:-1 group-title="EURO SPORTS" tvg-name="Euro Sports 1" tvg-logo="", Euro Sports 1
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+
+#EXTINF:-1 group-title="EURO SPORTS" tvg-name="Euro Sports 2" tvg-logo="", Euro Sports 2
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+
+# ==================== BEIN SPORTS ====================
+#EXTINF:-1 group-title="HD SPORTS" tvg-name="BeIN Sports 1 HD" tvg-logo="",BeIN Sports 1 HD
+https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd?|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+
+#EXTINF:-1 group-title="HD SPORTS" tvg-name="BeIN Sports 2 HD" tvg-logo="",BeIN Sports 2 HD
+https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+
+#EXTINF:-1 group-title="HD SPORTS" tvg-name="BeIN Sports 3 HD" tvg-logo="",BeIN Sports 3 HD
+https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+
+# ==================== CBS SPORTS ====================
+#EXTINF:-1 group-title="HD SPORTS" tvg-name="CBS Sports Golazo!" tvg-logo="",CBS Sports Golazo!
+https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+
+# ==================== CRICKET ====================
+#EXTINF:-1 group-title="CRICKET" tvg-name="Willow Sports" tvg-logo="", Willow Sports
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+
+#EXTINF:-1 group-title="CRICKET" tvg-name="Cricbuzz" tvg-logo="", Cricbuzz
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6le5p4wncm/out/v1/276f12039b4d4fb2a85693c85b6e7bb2/cenc.mpd?|drmScheme=clearkey&drmLicense=738abe1e048c4c1457e592cd5fe781b5:ef5e8ef6ce1f0b5813911212673969d2
+
+# ==================== FANCODE ====================
+
+#EXTINF:-1 group-title="FANCODE" tvg-name="FanCode SD" tvg-logo="", FanCode SD
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+
+#EXTINF:-1 group-title="FANCODE" tvg-name="FanCode HD 1" tvg-logo="", FanCode HD 1
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+
+#EXTINF:-1 group-title="FANCODE" tvg-name="FanCode HD 2" tvg-logo="", FanCode HD 2
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+
+# ==================== F1 ====================
+#EXTINF:-1 group-title="F1" tvg-name="F1 TV" tvg-logo="", F1 TV
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd?|drmScheme=clearkey&drmLicense=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
+
+#EXTINF:-1 group-title="OTHER" tvg-name="F1 Sky Sport" tvg-logo="", F1 Sky Sport
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd?|drmScheme=clearkey&drmLicense=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9
+
+# ==================== OTHER SPORTS ====================
+
+#EXTINF:-1 group-title="OTHER" tvg-name="One Fight FHD" tvg-logo="", One Fight FHD
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd?|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+
