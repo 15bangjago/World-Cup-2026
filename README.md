@@ -10,8 +10,6 @@ http://103.114.11.37:8081/FIFAPLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Fussball 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
-#EXTM3U
-# Source: SRC-ID:d94f16ec749881bd43278e6f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/imShakil/tvlink/refs/heads/main/dekho-prime-icon-192.webp" group-title="Sports",CazeTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
