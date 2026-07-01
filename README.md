@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",NOW TV 4K
+EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",nowTV 4K
 http://103.114.11.37:8081/FIFAPLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Fussball 4K
@@ -9,27 +9,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/imShakil/tvlink/refs/heads/main/dekho-prime-icon-192.webp" group-title="Sports",CazeTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/imShakil/tvlink/refs/heads/main/dekho-prime-icon-192.webp" group-title="FIFA WC 2026", FUSSBALL FHD
-http://tv.swedeniptv.tvip.xyz:80/live/X7NYFi3vrM9527/0JPKDJ6572/174175.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026", FUSSBALL UHD
-http://tv.swedeniptv.tvip.xyz:80/live/X7NYFi3vrM9527/0JPKDJ6572/174176.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",CTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",CAZE TV FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
-
 
 #EXTINF:-1 tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png" group-title="Canadian Channels",TSN 1 (Canada)
 http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3146
