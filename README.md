@@ -1,5 +1,36 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-chno="193" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] French Feed (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] French Feed (XYZSTRM)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pacquiao.inproviszon.st/bein12fr-xyz.m3u8
+
+#EXTINF:-1 tvg-chno="181" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Arabic Feed (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Arabic Feed (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streams.center
+#EXTVLCOPT:http-origin=https://streams.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/eJmauBDCIf.m3u8
+
+#EXTINF:-1 tvg-chno="182" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA World Cup] Arabic Feed 1 (XYZSTRM)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="Live Events",[FIFA World Cup] Arabic Feed 1 (XYZSTRM)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pacquiao.inproviszon.st/bein-xyz-waUvqaAAC.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="TV",BBC One
+http://193.239.186.231/BBC1/index.m3u8
+
+#EXTINF:-1 tvg-chno="81" tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24292_dark_360w_270h.png" group-title="TV",ITV1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts
+
+#EXTINF:-1 tvg-chno="144" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="TV",TSN1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
+#EXTINF:-1 tvg-chno="145" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="TV",TSN2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+
 #EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo 44 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="General",Telemundo 44 (Chicago)
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3876.ts
 -http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2400.ts
