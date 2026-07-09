@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo 44 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="General",Telemundo 44 (Chicago)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3876.ts
+-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2400.ts
+-http://104.238.205.28:9090/278662_.m3u8 
+
+#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo 44 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="General",Telemundo 44 (Chicago) [ALT]
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2400.ts
+
+#EXTINF:-1 tvg-id="WNEU-DT.us_locals1" tvg-name="Telemundo 60 (Boston)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="General",Telemundo 60 (Boston)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/3883.ts
+
+#EXTINF:-1 tvg-id="KSTS-DT.us_locals1" tvg-name="Telemundo 48 (San Francisco)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="General",Telemundo 48 (San Francisco)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2388.ts
+
+#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 (Chicago)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-32-wfld-us.png" group-title="News",FOX 32 (Chicago)
+http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2567.ts
+-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:8F:BF:34&stream=173653&extension=ts&play_token=GG008It07U
+-http://stream.cammonitorplus.net/1752/index.m3u8
+-http://89.187.178.197:1970/FOXChicago/index.m3u8
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2567.ts
+-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/74683.ts
+-http://212.102.60.10/IL_Chicago_FOX/index.m3u8
+-http://fl41.moveonjoy.com/IL_Chicago_FOX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",nowTV 4K
 http://103.114.11.37:8081/FIFAPLUS/tracks-v1a1/mono.m3u8
 
@@ -9,52 +33,8 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",CazeTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png" group-title="Canadian Channels",TSN 1 (Canada)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3146
-
-#EXTINF:-1 tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-2.png" group-title="Canadian Channels",TSN 2 (Canada)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3145
-
-#EXTINF:-1 tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-3.png" group-title="Canadian Channels",TSN 3 (Canada)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3144
-
-#EXTINF:-1 tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-4.png" group-title="Canadian Channels",TSN 4 (Canada)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/3143
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlkX-DLLALhHR0ozdnT1QjuNXvhVk1JYu_KFONn5sunA&s=10" group-title="Canadian Channels",TSN 5 (Canada)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/88079
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="UK Channels",ITV 1 (UK)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/527497
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="UK Channels",ITV 2 (UK)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/527498
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="UK Channels",ITV 3 (UK)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2263
-
-
-#EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/1/1539-1690027797.webp" group-title="UK Channels",TNT Sports 1 (UK)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2337
-
-#EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/1/1540-1690027877.webp" group-title="UK Channels",TNT Sports 2 (UK)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2336
-
-#EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/5/5712-1690027954.webp" group-title="UK Channels",TNT Sports 3 (UK)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2335
-
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",TNT Sports 4 (UK)
-http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/675021
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDLrK6Mg-ramfGM75wjpCaaPzzjZXRvmJbdLmmEnoAoUPwRuxVNlnWjoJ&s=10" group-title="FIFA WC 2026",FRANCE TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="Sports",Sky Sports Main Event
 http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2185.m3u8
