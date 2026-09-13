@@ -12,46 +12,46 @@ http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/1821337.ts
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/1846775.ts
 
 
-#EXTINF:-1 tvg-id="Skysports" tvg-name="Sky Sports F1 UHD" tvg-logo="" group-title="Sports",Sky Sports F1
+#EXTINF:-1 tvg-id="Skysports" tvg-name="Sky Sports F1 UHD" tvg-logo="" group-title="Sports",Sky Sports F1 UHD
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/1846774.ts
 
-#EXTINF:-1 tvg-id="Skysports" tvg-name="Sky Sports F1 HD" tvg-logo="" group-title="Sports",Sky Sports F1
+#EXTINF:-1 tvg-id="Skysports" tvg-name="Sky Sports F1 HD" tvg-logo="" group-title="Sports",Sky Sports F1 HD
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/1196396.ts
 
 
-#EXTINF:-1 tvg-id="HubSports" tvg-name="HUB PREMIER 1" tvg-logo="" group-title="Sports",HUB PREMIER
+#EXTINF:-1 tvg-id="HubSports" tvg-name="HUB PREMIER 1" tvg-logo="" group-title="Sports",HUB PREMIER 1
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/2688447.ts
 
-#EXTINF:-1 tvg-id="HubSports" tvg-name="HUB PREMIER 2" tvg-logo="" group-title="Sports",HUB PREMIER
+#EXTINF:-1 tvg-id="HubSports" tvg-name="HUB PREMIER 2" tvg-logo="" group-title="Sports",HUB PREMIER 2
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/2688448.ts
 
-#EXTINF:-1 tvg-id="HubSports" tvg-name="HUB PREMIER 3" tvg-logo="" group-title="Sports",HUB PREMIER
+#EXTINF:-1 tvg-id="HubSports" tvg-name="HUB PREMIER 3" tvg-logo="" group-title="Sports",HUB PREMIER 3
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/2688449.ts
 
-#EXTINF:-1 tvg-id="HubSports" tvg-name="HUB PREMIER 4" tvg-logo="" group-title="Sports",HUB PREMIER
+#EXTINF:-1 tvg-id="HubSports" tvg-name="HUB PREMIER 4" tvg-logo="" group-title="Sports",HUB PREMIER 4
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/2688450.ts
 
 
-#EXTINF:-1 tvg-id="HubSports" tvg-name="HUB PREMIER 5" tvg-logo="" group-title="Sports",HUB PREMIER
+#EXTINF:-1 tvg-id="HubSports" tvg-name="HUB PREMIER 5" tvg-logo="" group-title="Sports",HUB PREMIER 5
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/2688451.ts
 
 
 
-#EXTINF:-1 tvg-id="NOWSPORTS" tvg-name="NOW SPORT 1" tvg-logo="" group-title="Sports",NOW SPORTS
+#EXTINF:-1 tvg-id="NOWSPORTS" tvg-name="NOW SPORT 1" tvg-logo="" group-title="Sports",NOW SPORTS 1
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/1391046.ts
 
-#EXTINF:-1 tvg-id="NOWSPORTS" tvg-name="NOW SPORT 2" tvg-logo="" group-title="Sports",NOW SPORTS
+#EXTINF:-1 tvg-id="NOWSPORTS" tvg-name="NOW SPORT 2" tvg-logo="" group-title="Sports",NOW SPORTS 2
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/1391047.ts
 
-#EXTINF:-1 tvg-id="NOWSPORTS" tvg-name="NOW SPORT 3" tvg-logo="" group-title="Sports",NOW SPORTS
+#EXTINF:-1 tvg-id="NOWSPORTS" tvg-name="NOW SPORT 3" tvg-logo="" group-title="Sports",NOW SPORTS 3
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/1391048.ts
 
 
-#EXTINF:-1 tvg-id="NOWSPORTS" tvg-name="NOW SPORT 4" tvg-logo="" group-title="Sports",NOW SPORTS
+#EXTINF:-1 tvg-id="NOWSPORTS" tvg-name="NOW SPORT 4" tvg-logo="" group-title="Sports",NOW SPORTS 4
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/1391049.ts
 
 
-#EXTINF:-1 tvg-id="NOWSPORTS" tvg-name="NOW SPORT 5" tvg-logo="" group-title="Sports",NOW SPORTS
+#EXTINF:-1 tvg-id="NOWSPORTS" tvg-name="NOW SPORT 5" tvg-logo="" group-title="Sports",NOW SPORTS 5
 http://kytv.xyz:80/live/TGsXjUJkv5/KMA4sr6uNF/1391050.ts
 
 
